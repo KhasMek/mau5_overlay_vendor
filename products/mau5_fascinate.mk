@@ -15,6 +15,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGE_OVERLAYS += vendor/mau5/overlay
 
 PRODUCT_PACKAGES += Mau5Wallpapers
-PRODUCT_PACKAGES += ThemeDefaults
+PRODUCT_PACKAGES += Mau5Icons
 
 
